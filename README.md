@@ -9,3 +9,4 @@ NftARtCurators/NftARtCurators is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 should not be this lazy, but... all that up there. trying to python-solidity_fy an idea from scratch, got zero skills at anythng (not¨typing, it appears).
+ nftartcurators@gmail.com 
